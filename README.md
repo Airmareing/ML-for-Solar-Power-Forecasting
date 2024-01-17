@@ -1,6 +1,10 @@
 # ML_for_Solar_Power_Forecasting
-Team: 
+## Team: 
+
   Vycheslav Russu
+  
   Talankin Ilya
+  
   Ismedlaev Igor
+  
   Mukhametgaliev Artem
